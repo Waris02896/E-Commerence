@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Practice Projects\Node\Node js practice projects\Ecommerce App - Angular 9, NodeJs And MySQL\Project\Application-Back-end\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
